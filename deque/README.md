@@ -1,2 +1,2 @@
 # deque
-Deque custom data structure (deque.h)
+Deque custom data structure ```deque.h```
