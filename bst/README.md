@@ -1,2 +1,2 @@
 # bst
-Binary search tree custom data structure (bst.h) and test program (test.cpp)
+Binary search tree custom data structure ```bst.h``` and test program ```test.cpp```
